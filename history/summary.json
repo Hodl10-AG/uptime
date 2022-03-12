@@ -22,19 +22,19 @@
     "url": "https://hodl10.io/",
     "icon": "https://favicons.githubusercontent.com/hodl10.io",
     "slug": "hodl10-ag-webseite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 790,
-    "timeWeek": 892,
-    "timeMonth": 892,
-    "timeYear": 892,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 886,
+    "timeDay": 814,
+    "timeWeek": 886,
+    "timeMonth": 886,
+    "timeYear": 886,
     "dailyMinutesDown": {
-      "2022-03-12": 0
+      "2022-03-12": 18
     }
   }
 ]
