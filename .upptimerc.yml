@@ -7,12 +7,12 @@ assignees:
   - hodl10
 
 sites:
-  - name: Google
-    url: https://www.google.com
-    icon: https://www.google.com/favicon.ico
+  - name: BlockFinance ECO AG Webseite
+    url: https://blockfinance-eco.li/
+    icon: https://blockfinance-eco.li/wp-content/uploads/2022/08/favicon_bfeco.png
   - name: Hodl10 AG Webseite
     url: https://hodl10.io/
-
+    icon: https://hodl10.io/wp-content/uploads/2022/02/HODL10-AG-Logo.png
 
 
 status-website:
