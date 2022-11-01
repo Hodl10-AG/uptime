@@ -22,14 +22,14 @@
     "url": "https://hodl10.io/",
     "icon": "https://hodl10.io/wp-content/uploads/2022/02/HODL10-AG-Logo.png",
     "slug": "hodl10-ag-webseite",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "57.26%",
-    "uptimeWeek": "65.77%",
-    "uptimeMonth": "92.12%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "59.27%",
+    "uptimeWeek": "66.18%",
+    "uptimeMonth": "92.22%",
+    "uptimeYear": "99.00%",
     "time": 3027,
-    "timeDay": 2900,
+    "timeDay": 2979,
     "timeWeek": 4699,
     "timeMonth": 4498,
     "timeYear": 3027,
@@ -40,7 +40,7 @@
       "2022-10-29": 506,
       "2022-10-28": 495,
       "2022-10-27": 544,
-      "2022-10-26": 431
+      "2022-10-26": 390
     }
   }
 ]
