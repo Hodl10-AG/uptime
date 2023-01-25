@@ -4,19 +4,19 @@
     "url": "https://blockfinance-eco.li/",
     "icon": "https://blockfinance-eco.li/wp-content/uploads/2022/08/favicon_bfeco.png",
     "slug": "block-finance-eco-ag-webseite",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 2126,
-    "timeDay": 1984,
-    "timeWeek": 2370,
-    "timeMonth": 2206,
-    "timeYear": 2126,
+    "time": 2124,
+    "timeDay": 1940,
+    "timeWeek": 2314,
+    "timeMonth": 2195,
+    "timeYear": 2124,
     "dailyMinutesDown": {
-      "2023-01-25": 15
+      "2023-01-25": 26
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "hodl10-ag-webseite",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
     "time": 2891,
     "timeDay": 4669,
@@ -36,7 +36,6 @@
     "timeMonth": 1884,
     "timeYear": 2891,
     "dailyMinutesDown": {
-      "2023-01-25": 9,
       "2022-11-04": 345,
       "2022-11-03": 728,
       "2022-11-02": 699,
@@ -44,7 +43,7 @@
       "2022-10-31": 688,
       "2022-10-30": 330,
       "2022-10-29": 506,
-      "2022-10-28": 62
+      "2022-10-28": 83
     }
   }
 ]
