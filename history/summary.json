@@ -4,10 +4,10 @@
     "url": "https://blockfinance-eco.li/",
     "icon": "https://blockfinance-eco.li/wp-content/uploads/2022/08/favicon_bfeco.png",
     "slug": "block-finance-eco-ag-webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2135,
@@ -15,7 +15,9 @@
     "timeWeek": 2588,
     "timeMonth": 2245,
     "timeYear": 2135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Hodl10 AG Webseite",
