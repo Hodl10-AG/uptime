@@ -6,17 +6,17 @@
     "slug": "block-finance-eco-ag-webseite",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2124,
-    "timeDay": 1940,
-    "timeWeek": 2314,
-    "timeMonth": 2195,
-    "timeYear": 2124,
+    "time": 2132,
+    "timeDay": 2035,
+    "timeWeek": 2475,
+    "timeMonth": 2208,
+    "timeYear": 2132,
     "dailyMinutesDown": {
-      "2023-01-25": 26
+      "2023-01-25": 15
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
-    "time": 2891,
-    "timeDay": 4669,
-    "timeWeek": 2556,
-    "timeMonth": 1884,
-    "timeYear": 2891,
+    "time": 2888,
+    "timeDay": 3796,
+    "timeWeek": 2457,
+    "timeMonth": 1902,
+    "timeYear": 2888,
     "dailyMinutesDown": {
       "2022-11-04": 345,
       "2022-11-03": 728,
